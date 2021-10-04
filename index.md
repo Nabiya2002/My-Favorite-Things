@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Nabiya2002/My-Favorite-Thi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## [Books](docs/Books.md)
+## [Books](Books.md)
 
 ## [Movies](https://Movies.github.com/)   
 
